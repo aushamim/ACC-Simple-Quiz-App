@@ -1,0 +1,57 @@
+[
+  {
+    "quesID": "q1",
+    "ques": "Javascript is an _______ language?",
+    "options": [
+      { "optionId": "q1op1", "option": "Object Oriented" },
+      { "optionId": "q1op2", "option": "Object Based" },
+      { "optionId": "q1op3", "option": "Procedural" },
+      { "optionId": "q1op4", "option": "None of the above" }
+    ],
+    "selected": ""
+  },
+  {
+    "quesID": "q2",
+    "ques": "Which of the following keywords is used to define a variable in Javascript?",
+    "options": [
+      { "optionId": "q2op1", "option": "var" },
+      { "optionId": "q2op2", "option": "let" },
+      { "optionId": "q2op3", "option": "Both A & B" },
+      { "optionId": "q2op4", "option": "None of the above" }
+    ],
+    "selected": ""
+  },
+  {
+    "quesID": "q3",
+    "ques": "Upon encountering empty statements, what does the Javascript Interpreter do?",
+    "options": [
+      { "optionId": "q3op1", "option": "Throws an error" },
+      { "optionId": "q3op2", "option": "Ignores the statement" },
+      { "optionId": "q3op3", "option": "Gives a warning" },
+      { "optionId": "q3op4", "option": "None of the above" }
+    ],
+    "selected": ""
+  },
+  {
+    "quesID": "q4",
+    "ques": "Which of the following methods can be used to display data in some form using Javascript?",
+    "options": [
+      { "optionId": "q4op1", "option": "document.write()" },
+      { "optionId": "q4op2", "option": "console.log()" },
+      { "optionId": "q4op3", "option": "window.alert()" },
+      { "optionId": "q4op4", "option": "All of the above" }
+    ],
+    "selected": ""
+  },
+  {
+    "quesID": "q5",
+    "ques": "How can a datatype be declared to be a constant type?",
+    "options": [
+      { "optionId": "q5op1", "option": "const" },
+      { "optionId": "q5op2", "option": "var" },
+      { "optionId": "q5op3", "option": "let" },
+      { "optionId": "q5op4", "option": "constant" }
+    ],
+    "selected": ""
+  }
+]
